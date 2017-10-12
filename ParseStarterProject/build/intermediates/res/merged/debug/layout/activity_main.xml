@@ -1,0 +1,66 @@
+<!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/uberLogo"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/uber_logo"/>
+
+    <Switch
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/choice"
+        android:layout_below="@+id/uberLogo"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rider"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/rider"
+        android:layout_alignBottom="@+id/choice"
+        android:layout_toLeftOf="@+id/choice"
+        android:layout_toStartOf="@+id/choice"
+        android:layout_marginRight="16dp"
+        android:layout_marginEnd="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Driver"
+        android:id="@+id/driver"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_alignBottom="@+id/choice"
+        android:layout_toRightOf="@+id/choice"
+        android:layout_toEndOf="@+id/choice"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get started"
+        android:id="@+id/start"
+        android:onClick="getStarted"
+        android:layout_below="@+id/choice"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="66dp" />
+
+
+</RelativeLayout>

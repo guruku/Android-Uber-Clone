@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.4.0_fd5ae6f579152aeadfe3d9798a1919224866464b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.4.0_f36aa434338b33b29fb2b92b6f4887c76df1dd1d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.4.0_bb36016ff9a0c10ae77d27a6a12bb8552a4c9778\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_d005414dfe87cad4fd6994bc65f462350675e726\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d47cc283de09201dc0e893ca4813128d294c885d">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_efd1b943b0c172faf1296b592e583e3c25765afe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_729933e135a32885ad07768ad9f2dc7486f9ba34\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.4.0_73beba6e1dec741f8ed7ec7803a37d8333aef086\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_934cb7ede762b6fa313cd00a3e3a27310f0cfcb2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.4.0_09f34599017f0727119a1f8be8e5ebc8c0a07aa1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.4.0_067b74d05b5a15d8462da21ad1779dd6921ffa1b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.4.0_abffd15d40cd98ba22097c9ff4bc471b51a162c5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.4.0_83e8f769fc816914350cbbf452575a82ddd10977\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.4.0_bf240780939745959fa72bf385f1d1efdee2c22d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.4.0_6450ad059ddb95d6da934e3106f846c3474a9af4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.4.0_626a6ad5eb9a980c47b57b26c31894766e3eca91\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.4.0_0f46ff9303491d236a3a0834044e5a2bbd8fe97b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.4.0_0d8191542dcd7b2debfdd0b70432c90fadb9b42b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.4.0_6e44089b297876c3df1b1f1f9ab8100d956d263b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.4.0_f3577edd79d8ddccbeb2fdbc5858daa0d52de4b6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.4.0_1093efe67110ce60c7a27d572446e7a022d3e0e2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.4.0_7219608b74dd08f6725e2c653150d9951193dcfa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.4.0_4ce1654c2aaf932efe8ce01014863784d4497e5b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_03844af3a0395744f0ebe4b28c1f33dc67f93812\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_e994c47c796e5925f1df65c29b019cba73442976\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.4.0_2b1434925ec3d369ebb46656c4d1378684a3e0f0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_503f4105b441693a9ffbc803f8600accca098f18\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_11282c1213ace6af93496c0d663bb96f30f84b80\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.4.0_6cd9cebb53e9b51b0d9cc05aa70e7d0dd0a3dab5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_ab6b51b2c47f8e868e0b12f5dc4ab990ec188538\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.4.0_e9169b43a57d34fc2da4977653d203a1ac73cca0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.4.0_a1c51070f588de7c34d848af61c462bd657d8b36\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.4.0_a7d90f60fed4eef2aaa1d57dc211012eb01033fc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.4.0_e8fd41115a2b71ebdd10da7e0a3f1569d6b24a00\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.4.0_0b79b0a5ec59d6c8a2fb4e070ff022c0dd54a834\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.4.0_f264ae6687843694d88f625944a264298ad19003\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.4.0_e69e02dc54385d0442f7606491e0d6831ce98733\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.4.0_596b04dc0666a295c9fceea44dc7f00bfe0de285\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.4.0_1d1c39cd435ff1b5bcdeeca3974dd200ca537217\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.4.0_86388e0355b42b662d5ba0d71b8f69eb73bd5ea6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.4.0_fd1c25954e0aad14099f763c6cea922c1c207733\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.4.0_b00abc675e0813d136217546d5d448bf532903ba\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_a19417ea070271501ad6ac09e24fcf77e08d69aa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.4.0_8736400d647629afbd9226ce6b453e86a859de75\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_c85d002f3b85e3b8208216715506a75222b1e7ec\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.4.0_4a9641bcffceb464346b0d29200e9f1e6915dca1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.4.0_7a2bcad1a163ab20e0811e0c526ed63465021a33\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.4.0_73afffd2f397fd30de68749e11311c7a26bc1021\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1f4d75aac58e751c2d5ed5401c155977b0ff7ff9">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_32e452357c4c58a90504a2be58db2aa1244616d4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.4.0_35582afcb8514abe60f74b4ea3a00665ed43ab7f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.4.0_f4017a06f63d402892026cf9ba017aa67b3bf63f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_fb94b8bded9af9c1ccc0f3387ee2ec5663ee897b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_65870a6170820242acbb1b775d54199b6de1e1d3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.4.0_bd6b70197e6f808aacef3e9cf2d8f9d60742e94f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.4.0_3680c3697c8c463d3c71a7a18710e061fdf010db\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.4.0_13e53601b00fb8106811f25233736fb9215f7ea0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.4.0_2746d8bd5166dd75c257ca60fc250ee4a55cb415\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.4.0_87a776bb4e7ed14a1106a9689d9a9c83352dbb30\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.4.0_aa952972f6a5c4ee713e9ce75a4dc947212eadaf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_3abe9b71a3d82293dc5e11ce6490f20ab3e3d57e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_2af0c00572fefa37c2061495637ddb4a6d1ff989\classes.dex" />
+    </item>
+    <item
+        jar="D:\discs\e\e\android-sdks\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\pr293504\Desktop\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_2d1859367cb13f9a8588d1e9731fd212b4db8a92\classes.dex" />
+    </item>
+
+</items>
